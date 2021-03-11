@@ -1,0 +1,34 @@
+<mxfile host="65bd71144e" modified="2021-03-11T10:43:27.200Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.54.1 Chrome/87.0.4280.141 Electron/11.3.0 Safari/537.36" version="14.2.4" etag="Ass7Ts9VxADtzSPo4BtD" type="embed">
+    <diagram id="AtwtAieX20zOcp0HdIPv" name="Page-1">
+        <mxGraphModel dx="660" dy="670" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="50" y="80" width="670" height="300" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="ID" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="50" y="80" width="80" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="290" y="360" width="40" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="Firstname" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="130" y="80" width="120" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="Lastname" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="250" y="80" width="120" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="E-mail" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="360" y="80" width="120" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="Salary" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="600" y="80" width="120" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="Job-title" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="480" y="80" width="120" height="30" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

@@ -1,0 +1,84 @@
+let employees = `
+
+[
+    {
+        "ID": 1,
+        "first_name": "Corie",
+        "last_name": "Fazakerley",
+        "email": "cfazakerley0@paginegialle.it",
+        "job_title": "Paralegal",
+        "salary": "€34132,16"
+    },
+    {
+        "ID": 2,
+        "first_name": "Barbaraanne",
+        "last_name": "Vigers",
+        "email": "bvigers1@fda.gov",
+        "job_title": "Assistant Manager",
+        "salary": "€43368,31"
+    },
+    {
+        "ID": 3,
+        "first_name": "Orlan",
+        "last_name": "Lott",
+        "email": "olott2@ifeng.com",
+        "job_title": "Senior Cost Accountant",
+        "salary": "€25060,71"
+    },
+    {
+        "ID": 4,
+        "first_name": "Pippa",
+        "last_name": "McKerton",
+        "email": "pmckerton3@is.gd",
+        "job_title": "Mechanical Systems Engineer",
+        "salary": "€17813,98"
+    },
+    {
+        "ID": 5,
+        "first_name": "Lewie",
+        "last_name": "Brabon",
+        "email": "lbrabon4@mail.ru",
+        "job_title": "Marketing Assistant",
+        "salary": "€14761,49"
+    },
+    {
+        "ID": 6,
+        "first_name": "Terrye",
+        "last_name": "Callam",
+        "email": "tcallam5@opensource.org",
+        "job_title": "General Manager",
+        "salary": "€49247,60"
+    },
+    {
+        "ID": 7,
+        "first_name": "Linnet",
+        "last_name": "Emanson",
+        "email": "lemanson6@wiley.com",
+        "job_title": "Sales Representative",
+        "salary": "€25827,62"
+    },
+    {
+        "ID": 8,
+        "first_name": "Carlynn",
+        "last_name": "Shortin",
+        "email": "cshortin7@wikia.com",
+        "job_title": "Product Engineer",
+        "salary": "€22591,39"
+    },
+    {
+        "ID": 9,
+        "first_name": "Deni",
+        "last_name": "De Gowe",
+        "email": "ddegowe8@china.com.cn",
+        "job_title": "Social Worker",
+        "salary": "€18913,74"
+    },
+    {
+        "ID": 10,
+        "first_name": "Rodolphe",
+        "last_name": "Leehane",
+        "email": "rleehane9@w3.org",
+        "job_title": "Director of Sales",
+        "salary": "€45374,75"
+    }
+] `
