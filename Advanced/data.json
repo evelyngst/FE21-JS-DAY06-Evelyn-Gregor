@@ -1,0 +1,62 @@
+let books = `[
+    {
+        "title": "Prince of Pennsylvania, The",
+        "author": "Ichabod McIlvenna",
+        "read": false,
+        "image": "http://dummyimage.com/157x240.png/cc0000/ffffff"
+    },
+    {
+        "title": "Tender Hook, The (Boxer and the Bombshell, The)",
+        "author": "Augy Boswell",
+        "read": false,
+        "image": "http://dummyimage.com/130x198.bmp/cc0000/ffffff"
+    },
+    {
+        "title": "Bad Boy (Dawg)",
+        "author": "Inglebert Achrameev",
+        "read": true,
+        "image": "http://dummyimage.com/161x180.png/5fa2dd/ffffff"
+    },
+    {
+        "title": "Into the Forest of Fireflies' Light",
+        "author": "Holden Beirne",
+        "read": false,
+        "image": "http://dummyimage.com/169x239.bmp/ff4444/ffffff"
+    },
+    {
+        "title": "Honest Man: The Life of R. Budd Dwyer",
+        "author": "Riane Ovenden",
+        "read": false,
+        "image": "http://dummyimage.com/194x150.png/5fa2dd/ffffff"
+    },
+    {
+        "title": "Other Guys, The",
+        "author": "Joann Sibary",
+        "read": true,
+        "image": "http://dummyimage.com/167x212.jpg/dddddd/000000"
+    },
+    {
+        "title": "In the Shadow of the Moon",
+        "author": "Clerkclaude Halsho",
+        "read": true,
+        "image": "http://dummyimage.com/209x237.bmp/cc0000/ffffff"
+    },
+    {
+        "title": "Hop",
+        "author": "Merlina Etridge",
+        "read": true,
+        "image": "http://dummyimage.com/120x168.jpg/ff4444/ffffff"
+    },
+    {
+        "title": "Battle of Los Angeles",
+        "author": "Fawne Crick",
+        "read": true,
+        "image": "http://dummyimage.com/191x185.png/ff4444/ffffff"
+    },
+    {
+        "title": "Silver Chalice, The",
+        "author": "Vinson Merriday",
+        "read": false,
+        "image": "http://dummyimage.com/238x164.bmp/dddddd/000000"
+    }
+]`
